@@ -27,10 +27,13 @@ Presentation Notebooks Fall 2019 - Spring 2020
 	* How to use diffrent image processing functions in the Wolfram Language to manipulate images. 
 	* Visualize and experience a machine learning model performance on colored and monotone images.
 
-* PLE.nb 
+* COVID-19.nb 
 	* Explored Wolfram's COVID-19 dataset 
 	* Showed how to create applets 
 	* Demonstrated how basic concepts in the Wolfram Language can create powerful visualizations. 
+* PLE.nb 
+	* Demonstrated basic concepts in the Wolfram Language 
+	* Highlighted that simple programming concepts can help you build powerful applications
 
 ##### Demo for larger files
 
